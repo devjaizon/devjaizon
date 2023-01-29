@@ -4,8 +4,6 @@
 
 [![Jaizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaizon&show_icons=true&theme=tokyonight)](https://github.com/devjaizon)
 
-<br />
-
 <!-- transparent, dark, dracula and tokyonight are also good,  -->
 
 ## Tecnologias que eu utilizo
@@ -24,8 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaizon&layout=compact)](https://github.com/devjaizon)
 
 Apaixonado por tecnologia e comunicação, passo meu tempo livre aprendendo sobre as últimas novuidades desses meios, explorando o mundo através da programação.
-
-<br />
 
 ## Últimos conteúdos:
 
