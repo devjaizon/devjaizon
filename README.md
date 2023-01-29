@@ -1,7 +1,14 @@
-### Hi there 👋
+### Olá! Eu me chamo Jaizon Carlos 👋🏽
+
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]
 
 <!--
 **devjaizon/devjaizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Badges:
+- https://dev.to/envoy_/150-badges-for-github-pnk
+Emojis:
+- https://emojipedia.org/
 
 Here are some ideas to get you started:
 
