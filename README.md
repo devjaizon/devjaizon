@@ -3,7 +3,6 @@
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://github.com/devjaizon)[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://github.com/devjaizon)[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://github.com/devjaizon)
 
 [![Jaizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaizon&show_icons=true&theme=tokyonight)](https://github.com/devjaizon)
-
 <!-- transparent, dark, dracula and tokyonight are also good,  -->
 
 ## Tecnologias que eu utilizo
@@ -17,11 +16,15 @@
   <img alt='Tailwind CSS' align='center' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
   <img alt='React Native' align='center' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img alt='Svelte' align='center' src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00'/>
-</div><br />
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaizon&layout=compact)](https://github.com/devjaizon)
 
-Apaixonado por tecnologia e comunicação, passo meu tempo livre aprendendo sobre as últimas novuidades desses meios, explorando o mundo através da programação.
+    kaisj
+
+Apaixonado por tecnologia e passo meu tempo livre aprendendo sobre as últimas novidades desses meios, explorando o mundo através da programação.
+
+	Quero nem saber!
 
 ## Últimos conteúdos:
 

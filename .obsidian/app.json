@@ -1,0 +1,15 @@
+{
+  "promptDelete": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "useTab": false,
+  "livePreview": true,
+  "attachmentFolderPath": "Attachment"
+}
