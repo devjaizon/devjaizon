@@ -16,8 +16,7 @@
   <img alt='Tailwind CSS' align='center' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
   <img alt='React Native' align='center' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img alt='Svelte' align='center' src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00'/>
-</div>
-</br>
+</div></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaizon&layout=compact)](https://github.com/devjaizon)
 
