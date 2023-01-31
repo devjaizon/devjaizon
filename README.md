@@ -21,10 +21,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaizon&layout=compact)](https://github.com/devjaizon)
 
     kaisj
+```js
+const new = () => {
+    console.log('Hello world')
+}
+```
 
 Apaixonado por tecnologia e passo meu tempo livre aprendendo sobre as últimas novidades desses meios, explorando o mundo através da programação.
 
 	Quero nem saber!
+	console.log('Hello')
 
 ## Últimos conteúdos:
 
