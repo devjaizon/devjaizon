@@ -17,7 +17,7 @@
   <img alt='React Native' align='center' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img alt='Svelte' align='center' src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00'/>
 </div>
-
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaizon&layout=compact)](https://github.com/devjaizon)
 
