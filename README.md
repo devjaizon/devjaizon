@@ -18,6 +18,7 @@
   <img alt='Svelte' align='center' src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00'/>
 </div>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaizon&layout=compact)](https://github.com/devjaizon)
 
 ```js
