@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd1960dd5782bafe",
+        "id": "0901877fda2f2ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "52a2f2d089258a53",
+            "id": "5a38f2ae0a48314f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,14 +152,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "5623101dee3439d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +180,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52a2f2d089258a53",
+  "active": "3aa5fdedfe53cc6d",
   "lastOpenFiles": [
-    "1.png.md",
-    "README.md",
     "Blog/Pasta nova s.md",
     "Blog/Ideias para blog.md",
     "1.png",
@@ -184,6 +189,7 @@
     "Nova ideia.md",
     "dNova P.md",
     "Untitled.md",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "README.md"
   ]
 }
