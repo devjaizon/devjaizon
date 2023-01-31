@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230131.md",
-                "mode": "source",
+                "file": "Day Planners/2023-01-31.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230131.md"
+                "file": "Day Planners/2023-01-31.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230131.md",
+                "file": "Day Planners/2023-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230131.md",
+                "file": "Day Planners/2023-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,11 +208,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eeb887c501ae3a2f",
+  "active": "5a38f2ae0a48314f",
   "lastOpenFiles": [
-    "2023-01-31.md",
-    "README.md",
     "Day Planners/Day Planner-20230131.md",
+    "Day Planners/2023-01-31.md",
+    "README.md",
     "Blog/Pasta nova s.md",
     "Blog/Ideias para blog.md",
     "1.png",
