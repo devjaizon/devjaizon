@@ -31,6 +31,7 @@
       {
         "id": "63296ca32d17534d",
         "type": "tabs",
+        "dimension": 39.33333333333333,
         "children": [
           {
             "id": "3aa5fdedfe53cc6d",
@@ -68,14 +69,15 @@
         ]
       },
       {
-        "id": "7242770fcbd28f87",
+        "id": "b9ffc9ce538e27a8",
         "type": "tabs",
+        "dimension": 35.04761904761905,
         "children": [
           {
-            "id": "cc24be0b690c43b1",
+            "id": "94303930b9b57b79",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "todo",
               "state": {}
             }
           }
@@ -84,6 +86,7 @@
       {
         "id": "cc2f8407b84b66a2",
         "type": "tabs",
+        "dimension": 25.61904761904762,
         "children": [
           {
             "id": "5623101dee3439d4",
@@ -104,8 +107,9 @@
     "type": "split",
     "children": [
       {
-        "id": "53b11258a8a1a347",
+        "id": "1b133d602c2b0ca0",
         "type": "tabs",
+        "dimension": 36.03431839847474,
         "children": [
           {
             "id": "eeb887c501ae3a2f",
@@ -120,6 +124,7 @@
       {
         "id": "18909b80db757ff7",
         "type": "tabs",
+        "dimension": 39.18017159199238,
         "children": [
           {
             "id": "45ebcd6b37d19f0f",
@@ -134,23 +139,21 @@
         ]
       },
       {
-        "id": "e3ac7a86a5fc7feb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94303930b9b57b79",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "bc724769f13bef49",
         "type": "tabs",
+        "dimension": 24.78551000953289,
         "children": [
+          {
+            "id": "130fe46386b6e41b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
           {
             "id": "8135e14e6d3a9e3f",
             "type": "leaf",
@@ -181,18 +184,15 @@
             }
           },
           {
-            "id": "130fe46386b6e41b",
+            "id": "cc24be0b690c43b1",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,7 +210,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a38f2ae0a48314f",
+  "active": "cc24be0b690c43b1",
   "lastOpenFiles": [
     "Blog/Pasta nova s.md",
     "Blog/Ideias para blog.md",
