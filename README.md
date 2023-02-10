@@ -3,6 +3,7 @@
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://github.com/devjaizon)[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://github.com/devjaizon)[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://github.com/devjaizon)
 
 [![Jaizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaizon&show_icons=true&theme=tokyonight)](https://github.com/devjaizon)
+
 <!-- transparent, dark, dracula and tokyonight are also good,  -->
 
 ## Tecnologias que eu utilizo
@@ -27,7 +28,6 @@ const new = () => {
 ```
 
 Apaixonado por tecnologia e passo meu tempo livre aprendendo sobre as últimas novidades desses meios, explorando o mundo através da programação.
-
 
 ## Últimos conteúdos:
 
